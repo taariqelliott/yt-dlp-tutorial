@@ -1,0 +1,1 @@
+### The `Mac_Linux-Instructions.md` and `Windows-Instructions.md` files provide step-by-step instructions for setting up a development environment on macOS, Linux, and Windows, including installing necessary tools and configuring the terminal, allowing for a shorthand function to download WAV files from YouTube videos at 16-bit 48kHz.
